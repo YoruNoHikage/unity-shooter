@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "gh-pages.data.unityweb",
+"asmCodeUrl": "gh-pages.asm.code.unityweb",
+"asmMemoryUrl": "gh-pages.asm.memory.unityweb",
+"asmFrameworkUrl": "gh-pages.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
